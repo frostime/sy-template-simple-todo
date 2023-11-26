@@ -6,7 +6,7 @@
 {: custom-b="warn" breadcrumb="true" custom-heading-mode="0" }
 
 
-> Daily TODO
+> Daily Todo
 >
 > {{{col
 > * High-priority

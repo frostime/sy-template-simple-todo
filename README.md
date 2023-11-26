@@ -9,14 +9,14 @@ A simple template for TODO management.
     ![](asset/zh/Attr.png)
 
 
-  ![](asset/zh/Daily.png)
+  ![](asset/en/Daily.png)
 
 
 - View all Todos
 
   View a list of all past unfinished todos, grouped chronologically by title block
 
-  ![](asset/zh/ShowAll.png)
+  ![](asset/en/ShowAll.png)
 
 
 ## Bilingual Support

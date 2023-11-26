@@ -1,16 +1,16 @@
 {
-  "name": "template-sample",
-  "author": "Vanessa",
-  "url": "https://github.com/siyuan-note/template-sample",
-  "version": "0.0.3",
+  "name": "simple-todo",
+  "author": "frostime",
+  "url": "https://github.com/frostime/sy-template-simple-todo",
+  "version": "0.1.0",
   "minAppVersion": "2.9.0",
   "displayName": {
-    "default": "Template Sample",
-    "zh_CN": "模板示例"
+    "default": "Simple Todo",
+    "zh_CN": "极简 TODO"
   },
   "description": {
-    "default": "This is a template sample",
-    "zh_CN": "这是一个模板示例"
+    "default": "A very simple TODO management template",
+    "zh_CN": "一个非常简单的 TODO 管理模板"
   },
   "readme": {
     "default": "README.md",
@@ -19,12 +19,9 @@
   "funding": {
     "openCollective": "",
     "patreon": "",
-    "github": "",
-    "custom": [
-      "https://ld246.com/sponsor"
-    ]
+    "github": ""
   },
   "keywords": [
-    "sample", "示例"
+    "todo", "代办"
   ]
 }
